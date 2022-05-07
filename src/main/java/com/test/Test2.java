@@ -8,5 +8,6 @@ public class Test2 {
     public static void main(String[] args) {
         System.out.println("test git command");
         System.out.println(66666);
+        System.out.println(7777);
     }
 }
